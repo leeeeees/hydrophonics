@@ -14,5 +14,11 @@
 
 하지만, 최근 이슈가 된 다음의 사건을 계기로, 환경 문제는 단지 국가 간 의 정치, 외교, 경제에만 국한된 문제가 아니라 우리 개개인의 현실 속에 깊게 관여된, 그리고 논쟁적으로 깊이 고민하고 성찰해야 될 문제임을 통해 확인할 수 있었습니다.
 
-## 
+
+
+### 관련 자료 링크
+
+* [Walsh, Ben. 『GCSE: Modern History』\(London : John Murray\), 2004](http://cefia.aks.ac.kr:84/index.php?title=GCSE:_Modern_History:_Contents)
+* * [What is LEED?](https://www.usgbc.org/help/what-leed)
+* [양지연, "지속가능해야 뮤지엄이다" , 「예술경영 vol.436」,  2011.09.22.](https://www.gokams.or.kr:442/webzine/wNew/column/column_view.asp?idx=804&page=1&c_idx=&searchString=)
 
