@@ -18,7 +18,9 @@
 
 ### 관련 자료 링크
 
+* [Brundtland Report](https://www.britannica.com/topic/Brundtland-Report)
 * [Walsh, Ben. 『GCSE: Modern History』\(London : John Murray\), 2004](http://cefia.aks.ac.kr:84/index.php?title=GCSE:_Modern_History:_Contents)
-* * [What is LEED?](https://www.usgbc.org/help/what-leed)
-* [양지연, "지속가능해야 뮤지엄이다" , 「예술경영 vol.436」,  2011.09.22.](https://www.gokams.or.kr:442/webzine/wNew/column/column_view.asp?idx=804&page=1&c_idx=&searchString=)
+* [Warsaw Pact](https://www.britannica.com/event/Warsaw-Pact)
+
+
 
