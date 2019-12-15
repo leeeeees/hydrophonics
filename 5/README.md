@@ -14,22 +14,21 @@ description: 나만의 식물 컴퓨터 만들기
 
 ### 5.1. Personal Food Computer
 
-!\[\]\(\)
+![@ THE WALL STREET JOURNAL](../.gitbook/assets/5_1_pfc.jpg)
 
+현재 미국의 MIT 미디어랩에서는 **\#OpenAg** 라는 프로젝트로 이와 비슷한 프로젝트를 진행 중이며, 이를 오픈소스로 대중에 공개하고 있다. 이를 통해, 사람들은 식물이 커나가는 모습을 컴퓨터를 이용해서 관리하고 기록하고 그 사진을 보고 있으면 아름답고 나만의 예술작품이 만들어질 수 있다는 것을 알 수 있다.
 
+ 하지만, 이 프로젝트는 오픈되어 있어도 한국의 실정에 맞지 않은 부품과 조금은 필요없고 과한 엔니지어링으로 구성되어 있으며, 한국에서는 이 프로젝트를 받아서 실행하기가 쉽지 않다. 재료의 구입 그리고 자료가 영어로 되어 있어 공개된 자료 있지만 사전 지식 없이 따라서 만들기는 만만하지 않은 프로젝트 일 것이다.
 
-미국의 MIT 미디어랩에서는 OpenAg 라는 프로젝트로 이와 비슷한 프로젝트를 하고, 이를 오픈소스로 대중에 공개한 적이 ㅣㅆ다.
+따라서, 본 튜토리얼에서는 기존의 프로젝트를 일부 참조만 하고, 일반인이 좀더 쉽게 접근할 수 있고 부품 수급 등에 있어서 우리나라의 실정에 맞추어 적용할 수 있는 방안을 안내하고자 하였다. 더불어, 나만의 식물컴퓨터를 만드는 과정을 통해서 엔지니어링과 그 모습을 관찰하고 기록하는 형태를 통해, 다양한 교육적 경험을 제공하는 데 그 목적이 있다.
 
-
-
-
+컴퓨터와 센서, 통신, 데이타베이스가 무엇인지 알고 그것들을 이용하는 법과 기술들을 조합하여 우리의 생각을 반영하는 식물 스피커를 만드는 방법을 소개하고, 습도, 온도, CO2 농도, PH 농도 , 빛의 세기, 양분을 모니터링하는 시스템을 개발하는 방법을 다룰 것이다.
 
 
 
 ### 관련 자료 링크
 
 * [내맘대로 가드닝](https://opentutorials.org/course/2304)
-* [Small, Zachary. "A New Definition of "Museum" Sparks International Debate", HYPERALLERGIC, 2019.08.19.](https://hyperallergic.com/513858/icom-museum-definition/)
-* [What is LEED?](https://www.usgbc.org/help/what-leed)
-* [양지연, "지속가능해야 뮤지엄이다" , 「예술경영 vol.436」,  2011.09.22.](https://www.gokams.or.kr:442/webzine/wNew/column/column_view.asp?idx=804&page=1&c_idx=&searchString=)
+* [OpenAg - Personal Food Computer](https://www.media.mit.edu/projects/personal-food-computer/overview/)
+* [Kahn, Howie. "Perfecting Crops With AI-Powered Indoor Farms", THE WALL STREET JOURNAL, 2018.10.17.](https://www.wsj.com/articles/perfecting-crops-with-ai-powered-indoor-farms-1539787501)
 

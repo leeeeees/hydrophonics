@@ -10,8 +10,7 @@
   * [3.2. 싱가포르의 수경재배](3/3-2.md)
 * [4. 위대한 수확](4.md)
 * [5. 식물과의 대화](5/README.md)
-  * [Untitled](5/untitled-2.md)
-  * [Untitled](5/untitled-1-1.md)
-  * [Untitled](5/untitled-1.md)
-  * [Untitled](5/untitled.md)
+  * [5.1. 컴퓨터란 무엇인가](5/5-1.md)
+  * [5.2. 라즈베리파이와 아두이노의 연동](5/5-2.md)
+  * [5.3. IOT 플랫폼 이용하기](5/5-3.md)
 
